@@ -1,4 +1,4 @@
-## Hi, I'm Tik😆<br><br>🔸 IT student at KMUTT<br>😭 Try to commit everyday even it is from basic project ;-;
+## Hi, I'm Tik 😆<br><br>🔸 IT student at KMUTT<br>😭 Try to commit everyday even it is from basic project ;-;
 
 
 ## 🌐 Socials:
