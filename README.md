@@ -10,6 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=tik-04&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tik-04&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tik-04&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tik-04&show_icons=true&locale=en&layout=compact" alt="tik-04" /></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
