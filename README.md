@@ -22,9 +22,6 @@
 
 ---
 
-
----
-
 ## 📊 Development Activity
 
 <p align="center">
@@ -46,28 +43,7 @@
 
 ---
 
-## 🚀 Let’s Collaborate
-
-Looking for a dedicated developer to elevate your web project? I offer expertise in frontend development, UI/UX design, and a commitment to delivering impactful solutions. Let’s connect to transform your vision into reality.
-
 <p align="center">
-  <a href="mailto:godzk25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/phakaphol"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/GodzK"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
-
-> **Availability**: Open to freelance and full-time opportunities in web development and design.
-
-<details>
-  <summary>📬 How to Reach Me</summary>
-  - **Email**: godzk25@gmail.com (Response within 24 hours)  
-  - **LinkedIn**: [phakaphol](https://www.linkedin.com/in/phakaphol-dherachaisuprakij-1092ab256/) for professional networking  
-  - **Portfolio**: [godzk.dev](https://kmutt-phakaphol.vercel.app/) for more projects and insights
-</details>
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GodzK.GodzK" alt="Visitor Count">
-  <img src="https://img.shields.io/github/followers/GodzK?label=Followers&style=social" alt="GitHub Followers">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tik-04" alt="Visitor Count">
+  <img src="https://img.shields.io/github/followers/tik-04?label=Followers&style=social" alt="GitHub Followers">
 </p>
