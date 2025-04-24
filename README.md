@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://wakatime.com/share/@tik04/3f856a09-b614-4431-abee-1003a3c9f331.svg">
+  <img src="https://wakatime.com/share/@tik04/3f856a09-b614-4431-abee-1003a3c9f331.svg" width="400">
 </p>
 
 <p align="center">
