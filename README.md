@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tik04&theme=transparent&layout=compact&hide_border=true&bg_color=00000000&title_color=00eaff&text_color=d4e4ff&icon_color=ff6bcb" alt="WakaTime Stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Godzk&theme=transparent&layout=compact&hide_border=true&bg_color=00000000&title_color=00eaff&text_color=d4e4ff&icon_color=ff6bcb" alt="WakaTime Stats">
 </p>
 
 <p align="center">
