@@ -25,7 +25,7 @@
 ## 📊 Development Activity
 
 <p align="center">
-  <a href="https://wakatime.com/@583918a9-2aea-4476-b021-1899dd8a17ac"><img src="https://wakatime.com/badge/user/583918a9-2aea-4476-b021-1899dd8a17ac.svg" alt="Total time coded since Apr 24 2025" /></a>
+<a href="https://wakatime.com/@583918a9-2aea-4476-b021-1899dd8a17ac"><img src="https://wakatime.com/badge/user/583918a9-2aea-4476-b021-1899dd8a17ac.svg" alt="Total time coded since Apr 24 2025" /></a>
 </p>
 
 <p align="center">
