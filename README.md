@@ -36,11 +36,6 @@
   <em>Driving progress through consistent innovation and dedication</em>
 </p>
 
-<details>
-  <summary>📈 Weekly Coding Breakdown</summary>
-  im focusing on my all around skill i wil learn all thing as much as possible
-</details>
-
 ---
 
 <p align="center">
