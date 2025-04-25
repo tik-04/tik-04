@@ -15,7 +15,7 @@
 <p align="center">
   <a href="mailto:natthaphan0074@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.instagram.com/nptik._/" target="_blank">
-  <img src="https://img.shields.io/badge/Instragram-1877F2?style=for-the-badge&logo=instragram&logoColor=white" alt="Instragram">
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
 </a>
 
 </p>
