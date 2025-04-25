@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:natthaphan0074@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.instagram.com/nptik._/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="instragram">
+  <a href="mailto:natthaphan0074@gmail.com" target="_blank><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.instagram.com/nptik._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="instragram"></a>
+  <a href="https://www.facebook.com/nattaphan.pumipak/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
 </a>
 
 </p>
