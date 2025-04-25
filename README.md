@@ -43,6 +43,6 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tik04" alt="Visitor Count">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tik-04" alt="Visitor Count">
   <img src="https://img.shields.io/github/followers/tik-04?label=Followers&style=social" alt="GitHub Followers">
 </p>
