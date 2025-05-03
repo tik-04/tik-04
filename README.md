@@ -1,7 +1,6 @@
 <p align="center">
   <h1>Nattaphan Pumipak</h1>
   <h3>| IT kmutt Student |</h3>
-  <em>try to commit everyday 😭</em>
 </p>
 
 <p align="center">
