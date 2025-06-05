@@ -8,10 +8,6 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,ts,golang,nodejs,bun,react,tailwind,mysql,express" alt="Tech Stack">
-</p>
-
-<p align="center">
   <a href="mailto:natthaphan0074@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.instagram.com/nptik._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="instragram"></a>
   <a href="https://www.facebook.com/nattaphan.pumipak/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
