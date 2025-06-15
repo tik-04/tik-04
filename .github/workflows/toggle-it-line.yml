@@ -2,7 +2,7 @@ name: Smart Daily Commit
 
 on:
   schedule:
-    - cron: "0 4 * * *"  # ทุกวันตี 4 UTC (11 โมงเช้าไทย)
+    - cron: "0 16 * * *"  
   workflow_dispatch:
 
 jobs:
