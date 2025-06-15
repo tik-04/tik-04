@@ -1,33 +1,46 @@
-name: Toggle IT Line
+name: Smart Daily Commit
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # ทุกวันตอนเที่ยงคืน UTC (7 โมงเช้าไทย)
+    - cron: "0 4 * * *"  # ทุกวันตี 4 UTC (11 โมงเช้าไทย)
   workflow_dispatch:
 
 jobs:
-  toggle-line:
+  check-and-commit:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Setup Git identity
+      - name: Check commit today
+        id: check
         run: |
-          git config --global user.name "Auto Commit Bot"
-          git config --global user.email "noreply@example.com"
+          TODAY=$(date -u +"%Y-%m-%d")
+          echo "Today: $TODAY"
 
-      - name: Toggle line in README
-        run: |
-          if grep -q '| 🔸 IT kmutt Student |' README.md; then
-            echo "🔻 Removing IT line"
-            sed -i '/| 🔸 IT kmutt Student |/d' README.md
-            git commit -am "Remove IT student line"
+          COMMITS=$(curl -s -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/${{ github.repository }}/commits?since=${TODAY}T00:00:00Z)
+
+          if echo "$COMMITS" | grep -q '"sha"'; then
+            echo "Already committed today"
+            echo "skip=true" >> $GITHUB_OUTPUT
           else
-            echo "🔺 Adding IT line back"
-            sed -i '/<h1>Nattaphan Pumipak<\/h1>/a\  <h3>| 🔸 IT kmutt Student |</h3>' README.md
-            git commit -am "Add IT student line back"
+            echo "No commits yet today"
+            echo "skip=false" >> $GITHUB_OUTPUT
           fi
 
-      - name: Push commit
-        run: git push
+      - name: Toggle IT line
+        if: steps.check.outputs.skip == 'false'
+        run: |
+          if grep -q '| 🔸 IT kmutt Student |' README.md; then
+            sed -i '/| 🔸 IT kmutt Student |/d' README.md
+            git config --global user.name "Auto Commit Bot"
+            git config --global user.email "noreply@example.com"
+            git commit -am "⛔ Removed IT student line"
+            git push
+          else
+            sed -i '/<h1>Nattaphan Pumipak<\/h1>/a\  <h3>| 🔸 IT kmutt Student |</h3>' README.md
+            git config --global user.name "Auto Commit Bot"
+            git config --global user.email "noreply@example.com"
+            git commit -am "✅ Added IT student line"
+            git push
