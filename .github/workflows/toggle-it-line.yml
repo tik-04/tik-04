@@ -2,7 +2,7 @@ name: Smart Daily Commit
 
 on:
   schedule:
-    - cron: "39 16 * * *"  
+    - cron: "30 16 * * *"  
   workflow_dispatch:
 
 jobs:
