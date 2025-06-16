@@ -2,7 +2,7 @@ name: Smart Daily Commit
 
 on:
   schedule:
-    - cron: "0 16 * * *"  
+    - cron: "35 16 * * *"  
   workflow_dispatch:
 
 jobs:
@@ -33,7 +33,7 @@ jobs:
         if: steps.check.outputs.skip == 'false'
         run: |
           if grep -q '| 🔸 IT kmutt Student |' README.md; then
-            sed -i '/| 🔸 IT kmutt Student |/d' README.md
+            sed -i "/| 🔸 IT kmutt Student |/d" README.md
             git config --global user.name "Auto Commit Bot"
             git config --global user.email "noreply@example.com"
             git commit -am "⛔ Removed IT student line"
