@@ -1,5 +1,6 @@
 <p align="center">
   <h1>Nattaphan Pumipak</h1>
+<h3>| 🔸 IT kmutt Student |</h3>
 </p>
 
 <p align="center">
@@ -39,3 +40,4 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/tik-04?label=Followers&style=social" alt="GitHub Followers">
 </p>
+<!-- added-1750262807 -->
