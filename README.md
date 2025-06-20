@@ -1,6 +1,5 @@
 <p align="center">
   <h1>Nattaphan Pumipak</h1>
-<h3>| 🔸 IT kmutt Student |</h3>
 
 </p>
 
@@ -43,3 +42,4 @@
 </p>
 <!-- added-1750262807 -->
 <!-- added-1750350394 -->
+<!-- removed-1750436770 -->
