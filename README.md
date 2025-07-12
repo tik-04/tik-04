@@ -13,13 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tik04&theme=transparent&layout=compact&hide_border=true&bg_color=00000000&title_color=00eaff&text_color=d4e4ff&icon_color=ff6bcb" alt="WakaTime Stats">
 </p>
 
-<p align="center">
-  <img src="https://wakatime.com/share/@tik04/3f856a09-b614-4431-abee-1003a3c9f331.svg" width="400">
-</p>
-
-<p align="center">
-  <em>Driving progress through consistent innovation and dedication</em>
-</p>
 
 ---
 <!-- added-1750262807 -->
